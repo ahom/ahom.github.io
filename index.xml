@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antoine &amp; 张晓彤</title>
-    <link>https://XXX/</link>
+    <link>https://ahom.github.io/</link>
     <description>Recent content on Antoine &amp; 张晓彤</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;</copyright>
     
-	<atom:link href="https://XXX/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahom.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hotel</title>
-      <link>https://XXX/posts/hotel/</link>
+      <link>https://ahom.github.io/posts/hotel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://XXX/posts/hotel/</guid>
+      <guid>https://ahom.github.io/posts/hotel/</guid>
       <description>TODO </description>
     </item>
     
     <item>
       <title>RSVP</title>
-      <link>https://XXX/posts/rsvp/</link>
+      <link>https://ahom.github.io/posts/rsvp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://XXX/posts/rsvp/</guid>
+      <guid>https://ahom.github.io/posts/rsvp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Venue</title>
-      <link>https://XXX/posts/venue/</link>
+      <link>https://ahom.github.io/posts/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://XXX/posts/venue/</guid>
+      <guid>https://ahom.github.io/posts/venue/</guid>
       <description>TODO </description>
     </item>
     
     <item>
       <title>VISA</title>
-      <link>https://XXX/posts/visa/</link>
+      <link>https://ahom.github.io/posts/visa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://XXX/posts/visa/</guid>
+      <guid>https://ahom.github.io/posts/visa/</guid>
       <description>Official website to get chinese VISA  Marseille Paris Strasbourg Lyon  </description>
     </item>
     
