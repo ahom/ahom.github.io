@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Antoine &amp; 张晓彤</title>
+    <link>https://www.17052020.com/fr/posts/</link>
+    <description>Recent content in Posts on Antoine &amp; 张晓彤</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://www.17052020.com/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emplacement</title>
+      <link>https://www.17052020.com/fr/posts/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.17052020.com/fr/posts/venue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organisation du séjour</title>
+      <link>https://www.17052020.com/fr/posts/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.17052020.com/fr/posts/travel/</guid>
+      <description>Planning Nous organiserons des visites à Beijing pour ceux qui font le déplacement.
+TODO
+Hotels TODO</description>
+    </item>
+    
+    <item>
+      <title>RSVP</title>
+      <link>https://www.17052020.com/fr/posts/rsvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.17052020.com/fr/posts/rsvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VISA</title>
+      <link>https://www.17052020.com/fr/posts/visa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.17052020.com/fr/posts/visa/</guid>
+      <description>Site officiel pour les demandes de visa chinois en france Il est nécessaire de se déplacer au centre de visa afin d&#39;en faire la demande, voici les 4 possibilités:
+ Marseille Paris Strasbourg Lyon  FAQ  Comment obtenir une attestation d&#39;assurance pour la durée du voyage (obligatoire pour le dépôt de la demande de visa)?
+ Le plus simple est de passer par votre carte bancaire, voici là où il faut aller si vous avez une carte visa: Assistance Médicale</description>
+    </item>
+    
+  </channel>
+</rss>
