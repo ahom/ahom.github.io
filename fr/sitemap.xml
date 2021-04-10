@@ -1,41 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://17052020.com/fr/</loc>
+    <loc>https://ahom.github.io/fr/</loc>
+  </url><url>
+    <loc>https://ahom.github.io/fr/categories/</loc>
+  </url><url>
+    <loc>https://ahom.github.io/fr/posts/venue/</loc>
+  </url><url>
+    <loc>https://ahom.github.io/fr/posts/</loc>
+  </url><url>
+    <loc>https://ahom.github.io/fr/posts/rsvp/</loc>
+  </url><url>
+    <loc>https://ahom.github.io/fr/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://17052020.com/fr/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://17052020.com/fr/posts/venue/</loc>
-  </url>
-  
-  <url>
-    <loc>https://17052020.com/fr/posts/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://17052020.com/fr/posts/travel/</loc>
-  </url>
-  
-  <url>
-    <loc>https://17052020.com/fr/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://17052020.com/fr/posts/rsvp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://17052020.com/fr/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://17052020.com/fr/posts/visa/</loc>
-  </url>
-  
 </urlset>

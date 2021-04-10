@@ -1,68 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Antoine &amp; 张晓彤</title>
-    <link>https://17052020.com/fr/</link>
-    <description>Recent content on Antoine &amp; 张晓彤</description>
+    <title>Antoine &amp; Xiaotong (张晓彤)</title>
+    <link>https://ahom.github.io/fr/</link>
+    <description>Recent content on Antoine &amp; Xiaotong (张晓彤)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;</copyright>
-    
-	<atom:link href="https://17052020.com/fr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;</copyright><atom:link href="https://ahom.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Emplacement</title>
-      <link>https://17052020.com/fr/posts/venue/</link>
+      <title>Planification</title>
+      <link>https://ahom.github.io/fr/posts/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://17052020.com/fr/posts/venue/</guid>
+      <guid>https://ahom.github.io/fr/posts/venue/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>https://17052020.com/fr/posts/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://17052020.com/fr/posts/faq/</guid>
-      <description>Où séjourner à Pékin?  Le centre de Pékin se situe près de la place Tian An Men mais ça peut être un peu cher: Tian An Men square Les parents de Xiaotong vivent près de Shahe   Un hôtel proche du métro et vers le centre est surement la meilleure option. Nous recommenderons un point central pour que tout le monde se rejoigne.
- Pour la nuit du 17Mai Il est préférable de réserver dans l&#39;hôtel à côté de là où se déroule la cérémonie, nous nous occuperons de la réservation, la chambre ne coute que ~50euros.</description>
-    </item>
-    
-    <item>
-      <title>Organisation du séjour</title>
-      <link>https://17052020.com/fr/posts/travel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://17052020.com/fr/posts/travel/</guid>
-      <description>Planning  Arrivée conseillée à Pékin
- 14 ou 15 Mai
- Date de départ
- Nous repartirons le 24, chacun est libre de repartir lorsqu&#39;il le souhaite
- Visites
- Visites de Pékin et des alentours en début de semaine et si des gens sont interessés nous pouvons organiser quelque jours à Shanghai pour la fin de la semaine.
-Exemples de prix de billets d&#39;avion  Paris (arrivée le 15 Mai): 400-450€ / pers google flights Bordeaux (arrivée le 15 Mai): 400€ / pers google flights Orlando (arrivée le 14 Mai): 550€ / pers google flights  Hotels TODO</description>
     </item>
     
     <item>
       <title>RSVP</title>
-      <link>https://17052020.com/fr/posts/rsvp/</link>
+      <link>https://ahom.github.io/fr/posts/rsvp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://17052020.com/fr/posts/rsvp/</guid>
+      <guid>https://ahom.github.io/fr/posts/rsvp/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>VISA</title>
-      <link>https://17052020.com/fr/posts/visa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://17052020.com/fr/posts/visa/</guid>
-      <description>Site officiel pour les demandes de visa chinois en france Il est nécessaire de se déplacer au centre de visa (au maximum 3 mois à l&#39;avance) afin d&#39;en faire la demande, voici les 4 possibilités:
- Marseille Paris Strasbourg Lyon  FAQ  Comment obtenir une attestation d&#39;assurance pour la durée du voyage (obligatoire pour le dépôt de la demande de visa)?
- Le plus simple est de passer par votre carte bancaire, voici là où il faut aller si vous avez une carte visa: Assistance Médicale</description>
     </item>
     
   </channel>
